@@ -1,0 +1,16 @@
+{
+    "name": "ITI Smart Village",
+    "employeesNum": 1,
+    "employees": [
+        {
+            "id": 1,
+            "name": "karim ibrahim",
+            "email": "karim@iti.com",
+            "salary": 6990,
+            "mood": "happy",
+            "health_rate": 75,
+            "car": "bmw 320",
+            "distance_to_work": 20
+        }
+    ]
+}
